@@ -11,7 +11,7 @@ Script JavaScript sederhana untuk melakukan auto scroll naik-turun di halaman we
 
 ## 🛑 Cara Berhenti
 
-Ketik perintah ini di console:
+REFRESH BROWSER AOKWOAKWOQKO!
 
 ```javascript
 stopAutoScroll();
